@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Maria Petrova
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student of RUDN
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: RUDN
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -43,18 +43,34 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+  - icon: book
+    icon_pack: fas
+    link: https://www.elibrary.ru/
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=new_articles&hl=ru&imq=Wendy+Hill#
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/neobiju
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-7807-3179
+  - icon: mendeley
+    icon_pack: ai
+    link: https://www.mendeley.com/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Maria-Petrova
+  - icon: academia
+    icon_pack: ai
+    link: https://independent.academia.edu/MariaMaria2871
+  - icon: arxiv
+    icon_pack: ai
+    link: http://arxiv.org/
+
+
+
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
