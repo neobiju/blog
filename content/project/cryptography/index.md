@@ -58,7 +58,7 @@ It is the simplest algorithm. Cryptographers often refer to it as a cryptographi
 
 # Asymmetric encryption
 <hr>
-This algorithm is widely used in the World Wide Web. It is also called Public Key Cryptography (PKC). The PKC algorithm uses two keys: public and private.
+This algorithm is widely used in the World Wide Web. It is also called Public Key Cryptography (PKC). The algorithm uses two keys: public and private.
 
     Open may be known to many. It is impossible to decrypt data using it. For example, an email address is a public key.
     The private is secret, used to decrypt the message, never revealed to the other party. For example, the email account password is the key to opening emails.
